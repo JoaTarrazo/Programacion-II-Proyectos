@@ -1,0 +1,16 @@
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\bin\Debug\net5.0\clase 1 y ejercicios.exe
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\bin\Debug\net5.0\clase 1 y ejercicios.deps.json
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\bin\Debug\net5.0\clase 1 y ejercicios.runtimeconfig.json
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\bin\Debug\net5.0\clase 1 y ejercicios.runtimeconfig.dev.json
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\bin\Debug\net5.0\clase 1 y ejercicios.dll
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\bin\Debug\net5.0\clase 1 y ejercicios.pdb
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.csproj.AssemblyReference.cache
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.AssemblyInfoInputs.cache
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.AssemblyInfo.cs
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.dll
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\refint\clase 1 y ejercicios.dll
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.pdb
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\clase 1 y ejercicios.genruntimeconfig.cache
+C:\Users\Joaco\Desktop\Joa UTN II\Proyectos\clase 1 y ejercicios\obj\Debug\net5.0\ref\clase 1 y ejercicios.dll
